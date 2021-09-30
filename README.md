@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dongjae%20Shin&fontSize=90)
+
+
 
 <!--
 **sdj3261/sdj3261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Dongjae Shin<hr>I am a student studying backend development.
