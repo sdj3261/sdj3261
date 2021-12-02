@@ -38,5 +38,5 @@ I'm Dongjae Shin<hr>I am a student studying backend development.
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <br>
 </div>
-
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sdj3261">
+<br>
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sdj3261">
