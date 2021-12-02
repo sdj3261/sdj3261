@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Dongjae Shin<hr>I am a student studying backend development.
+
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sdj3261">
