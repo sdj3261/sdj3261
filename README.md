@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Dongjae Shin<hr>I am a student studying backend development.
+I'm Dongjae Shin <br> I am a student studying backend development.
 
-<div align=center><h1>📚 Tech Stacks</h1></div>
+<div align=center><h1>📚Tech Stacks</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -39,4 +39,6 @@ I'm Dongjae Shin<hr>I am a student studying backend development.
   <br>
 </div>
 <br>
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sdj3261">
+<div align=center>
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sdj3261">
+  </div>
