@@ -46,5 +46,5 @@ I'm Dongjae Shin
   <br>
 <div align=center>
   
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sdj3261">
+
   </div>
