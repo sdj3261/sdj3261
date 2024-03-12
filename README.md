@@ -1,50 +1,47 @@
-### Welcome 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dongjae%20Shin&fontSize=90)
+# 백엔드 개발자 신동재입니다. 👋
+최근에는 배운 것들을 작게라도 기록하고 T자형 개발자가 되기 위해 노력하고 있습니다! 😎
 
+- 🔭 Corp. : Cloit 
+- 📄 Portfolio: 
+- 🅱️ Blog: [https://velog.io/@sdj3261](https://velog.io/@sdj3261)
+- 📫 연락 방법: [tlsehd527@gmail.com](mailto:tlsehd527@gmail.com)
 
+## 나의 기술 스택
+<table><tr><td valign="top" width="33%">
 
-<!--
-**sdj3261/sdj3261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 프론트엔드  
+<div align="center">  
+<img style="margin: 10px" src="icons/react.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="icons/javascript.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="icons/antd.svg" alt="Antd" height="50" /> 
+</div></td><td valign="top" width="34%">
 
-Here are some ideas to get you started:
+### 백엔드  
+<div align="center">  
+<img style="margin: 10px" src="icons/java.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="icons/spring.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="icons/spring.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="icons/spring.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="icons/spring.svg" alt="Spring" height="50" />  
+</div></td><td valign="top" width="33%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align=left>
-I'm Dongjae Shin 
-<br> I am a student studying backend development. 
+### 데브옵스  
+<div align="center">  
+<img style="margin: 10px" src="icons/docker.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="icons/elastic_search" alt="ElasticSearch" height="50" />  
+<img style="margin: 10px" src="icons/jenkins.svg" alt="Jenkins" height="50" />  
+<img style="margin: 10px" src="icons/linux.svg" alt="Linux" height="50" />  
+</div></td></tr></table>  
 
-<div align=center><h1>📚Tech Stacks</h1></div>
-
-<div align=center> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <br>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <br>
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <br>
+## 나와 연결하기  
+<div align="center">
+<a href="https://www.linkedin.com/in/dongjae-shin-42896a21b/"><img src="icons/linkedin.svg" alt="LinkedIn" height="30" style="margin-right: 10px"/></a>
+<a href="https://github.com/sdj3261/sdj3261"><img src="icons/github.svg" alt="GitHub" height="30" style="margin-right: 10px"/></a>
 </div>
-  <div align=center><h2>😄My Study Blog</h1></div>
-  <div align=center><a href="https://velog.io/@sdj3261" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-  </div>
-  <br>
-<div align=center>
-  
 
-  </div>
+## GitHub 통계  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sdj3261&show_icons=true&count_private=true" align="center" />
+</div>  
+
+![프로필 조회수](https://gpvc.arturio.dev/sdj3261)  
