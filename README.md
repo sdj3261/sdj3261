@@ -21,9 +21,7 @@
 <div align="center">  
 <img style="margin: 10px" src="icons/java.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="icons/spring.svg" alt="Spring" height="50" />  
-<img style="margin: 10px" src="icons/spring.svg" alt="Spring" height="50" />  
-<img style="margin: 10px" src="icons/spring.svg" alt="Spring" height="50" />  
-<img style="margin: 10px" src="icons/spring.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="icons/golang.svg" alt="Golang" height="50" />  
 </div></td><td valign="top" width="33%">
 
 ### 데브옵스  
@@ -32,6 +30,13 @@
 <img style="margin: 10px" src="icons/elastic_search" alt="ElasticSearch" height="50" />  
 <img style="margin: 10px" src="icons/jenkins.svg" alt="Jenkins" height="50" />  
 <img style="margin: 10px" src="icons/linux.svg" alt="Linux" height="50" />  
+  <img style="margin: 10px" src="icons/linux.svg" alt="Git" height="50" />  
+</div></td></tr></table>  
+
+### 데이터베이스  
+<div align="center">  
+<img style="margin: 10px" src="icons/mariadb.svg" alt="Mariadb" height="50" />  
+<img style="margin: 10px" src="icons/postgresql.svg" alt="Postgresql" height="50" />  
 </div></td></tr></table>  
 
 ## 나와 연결하기  
