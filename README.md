@@ -24,17 +24,17 @@
 
 <div align="center">  
     <b>Devops</b><br>
-<img style="margin: 10px" src="https://img.shields.io/badge/MariaDB-1F305F?style=social&logo=mariaDB" alt="mariaDB" height="20" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/MariaDB-1F305F?style=social&logo=MariaDB" alt="MariaDB" height="20" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/Docker-2496ED?style=social&logo=Docker" alt="Docker" height="20" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/jenkins-%23D24939?style=social&logo=Jenkins" alt="Jenkins" height="20" />  
-  <img style="margin: 10px" src="https://img.shields.io/badge/Git-F05032?style=social&logo=git" alt="Git" height="20" />  
+  <img style="margin: 10px" src="https://img.shields.io/badge/Git-F05032?style=social&logo=Git" alt="Git" height="20" />  
 </div></td><td valign="top" width="25%">
 <div align="center">  
     <b>Experience</b><br>
 <img style="margin: 10px" src="https://img.shields.io/badge/python-%233776AB?style=social&logo=python" alt="Python" height="20" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/Linux-FCC624?style=social&logo=linux&logoColor=black" alt="Linux" height="20" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/Linux-FCC624?style=social&logo=Linux&logoColor=black" alt="Linux" height="20" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=social&logo=amazonaws&logoColor=white alt="Aws" height="20" />  
-  <img style="margin: 10px" src="https://img.shields.io/badge/apachekafka-%23231F20?style=social&logo=apachekafka" alt="Kafka" height="20" />  
+  <img style="margin: 10px" src="https://img.shields.io/badge/apachekafka-%23231F20?style=social&logo=Kafka" alt="Kafka" height="20" />  
 </div></td></tr></table>  
 
 ## Connect With me  
