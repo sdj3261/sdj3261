@@ -1,10 +1,9 @@
 # 백엔드 개발자 신동재입니다. 👋
-최근에는 배운 것들을 작게라도 기록하고 T자형 인재가 되기 위해 노력하고 있습니다! 😎
 
 - 🔭 Corp. : Cloit
 - 💻 Job : Software Engineer
 - 📄 Portfolio: [https://dongjae-portfolio.oopy.io](https://dongjae-portfolio.oopy.io)
-- 🅱️ Blog: [https://velog.io/@sdj3261](https://velog.io/@sdj3261)
+- 🅱️ Blog: [https://new-think-think.tistory.com/](https://new-think-think.tistory.com/)
 
 ## Skill
 <table><tr><td valign="top" width="25%"> 
