@@ -2,8 +2,6 @@
 
 - 🔭 Corp. : Cloit
 - 💻 Job : Software Engineer
-- 📄 Portfolio: [https://dongjae-portfolio.oopy.io](https://dongjae-portfolio.oopy.io)
-- 🅱️ Blog: [https://new-think-think.tistory.com/](https://new-think-think.tistory.com/)
 
 ## Skill
 <table><tr><td valign="top" width="25%"> 
