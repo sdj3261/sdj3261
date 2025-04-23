@@ -1,7 +1,4 @@
-# 백엔드 개발자 신동재입니다. 👋
-
-- 🔭 Corp. : Cloit
-- 💻 Job : Software Engineer
+# 소프트웨어 엔지니어 신동재입니다. 👋
 
 ## Skill
 <table><tr><td valign="top" width="25%"> 
