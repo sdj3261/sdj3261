@@ -27,7 +27,7 @@
     <b>Experience</b><br>
 <img style="margin: 10px" src="https://img.shields.io/badge/Python-%233776AB?style=social&logo=python" alt="Python" height="20" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/Linux-FCC624?style=social&logo=Linux&logoColor=black" alt="Linux" height="20" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=social&logo=amazonaws&logoColor=white" alt="Aws" height="20" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="Aws" height="20" />  
 </div></td></tr></table>  
 
 ## Connect With me  
